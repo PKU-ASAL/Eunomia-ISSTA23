@@ -1,0 +1,17 @@
+2022-12-22 15:45:52,389 | WARNING | Totally remove 40 unrelated functions, around 71.429% of all functions
+2022-12-22 15:45:52,401 | INFO | Call: scanf (C Library)
+2022-12-22 15:45:52,401 | INFO | 	scanf, pattern_p: 1024, param_p: 69040
+2022-12-22 15:45:52,402 | INFO | 	Input a scanf char: scanf_None_None_None_[0]_69051
+2022-12-22 15:45:52,402 | INFO | Return: scanf (C Library)
+2022-12-22 15:45:52,410 | INFO | Call: __original_main -> logic_bomb(char*)
+2022-12-22 15:45:52,412 | INFO | Call: logic_bomb(char*) -> f(int)
+2022-12-22 15:45:52,419 | INFO | Return: f(int)
+2022-12-22 15:45:52,419 | INFO | Return: f(int)
+2022-12-22 15:45:52,420 | INFO | Call: logic_bomb(char*) -> cnt_loop_onj$2
+2022-12-22 15:45:52,420 | INFO | Call: logic_bomb(char*) -> cnt_loop_onj$2
+2022-12-22 15:45:52,421 | INFO | Call: cnt_loop_onj$2 -> f(int)
+2022-12-22 15:45:52,421 | INFO | Call: cnt_loop_onj$2 -> f(int)
+2022-12-22 15:45:52,423 | INFO | Return: f(int)
+2022-12-22 15:45:52,424 | INFO | Return: f(int)
+2022-12-22 15:45:52,424 | INFO | Call: cnt_loop_onj$2 -> cnt_loop_onj$0
+2022-12-22 15:45:52,425 | INFO | Call: cnt_loop_onj$2 -> cnt_loop_onj$0

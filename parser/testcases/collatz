@@ -1,0 +1,6 @@
+cnt_loop_onj : func(logic_bomb) {
+    cnt_loop_onj = 0;
+    cuse(loopcount) {cnt_loop_onj += 1;}
+    ouse(3) {halt = True;}
+    puse(j) {prior = cnt_loop_onj;}
+}

@@ -1,0 +1,8 @@
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/intrinsics_gen.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/omp_gen.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/acc_gen.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/clang-tablegen-targets.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/parser.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/NavSParser.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/edit_cache.dir
+/home/zzhzz/ISSTA23-Artifacts/parser/build/CMakeFiles/rebuild_cache.dir

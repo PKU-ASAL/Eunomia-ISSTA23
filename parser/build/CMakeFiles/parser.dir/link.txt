@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparser.a CMakeFiles/parser.dir/grammar/NavSParser.cpp.o CMakeFiles/parser.dir/grammar/NavSLexer.cpp.o
+/usr/bin/ranlib libparser.a
